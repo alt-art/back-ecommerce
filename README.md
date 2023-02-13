@@ -2,6 +2,8 @@
 
 Simple e-commerce backend with Django and Django Rest Framework.
 
+> You can run all the application in https://github.com/alt-art/ecommerce using the docker-compose.
+
 ## Documentation
 
 The documentation is available [here](https://documenter.getpostman.com/view/16429730/2s935uFfeD).
